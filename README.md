@@ -8,6 +8,6 @@
   3- With bash I rearrange the files and create a single file.
   
   
-  4- With python, I create and excel file that has sheets keeps different types of server utilities.
+  4- With python, I create and excel file that has multiple sheets, keeps different types of server utilities.
 
 
